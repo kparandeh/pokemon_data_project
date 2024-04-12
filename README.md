@@ -23,7 +23,7 @@ pip install -r requirements.txt
 Import the package and use it as follows:
 
 ```python
-from pokemon_data.evolutions import get_pokemon_evolution
+from analysis.evolutions import get_pokemon_evolution
 
 evolution_path = get_pokemon_evolution("bulbasaur")
 print(evolution_path)

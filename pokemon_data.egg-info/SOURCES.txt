@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+analysis/__init__.py
+analysis/evolutions.py
+pokemon_data.egg-info/PKG-INFO
+pokemon_data.egg-info/SOURCES.txt
+pokemon_data.egg-info/dependency_links.txt
+pokemon_data.egg-info/requires.txt
+pokemon_data.egg-info/top_level.txt
+tests/__init__.py
+tests/test_evolutions.py
